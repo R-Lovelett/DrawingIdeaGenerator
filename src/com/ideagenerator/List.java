@@ -4,6 +4,12 @@ import java.util.Random;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/**
+ * This class contains a set of ArrayLists that holds random words to be used in sentence making.
+ * Currently hold adjectives, nouns, and places. Room for expansion due to ArrayList flexibility.
+ *
+ * @author Randi
+ */
 public class List {
 
     public Random rand = new Random();
