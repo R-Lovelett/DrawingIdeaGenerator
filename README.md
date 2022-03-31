@@ -1,4 +1,4 @@
-# DrawingIdeaGenerator
+# drawing-idea-generator
 A simple app that helps generate random drawing prompts for the user to draw.
 
 # Version: 1.0
