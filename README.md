@@ -4,12 +4,14 @@ A simple app that helps generate random drawing prompts for the user to draw.
 # Version: 1.0
 
 # Project Run Instructions
-1. Clone Project to PC.
-   - ***Instructions if needed: [https://www.youtube.com/watch?v=aBVOAnygcZw](url)***
+1. Clone Project to PC
+   - ***Instructions if needed: [Github Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)***
 
-2. Run Main Class
+2. Open in code editor of choice
 
-3. Dialog will pop up in box on bottom of window, simply enter Y or N to interact with app.
+3. Run Main Class
+
+4. Dialog will pop up, simply enter Y or N to interact with app
 
 # What I Learned
 
